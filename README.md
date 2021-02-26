@@ -1,5 +1,5 @@
 # Scroll-Indicator
-## Scroll indicator using vanilla JavaScript
+**Scroll indicator using vanilla JavaScript**
 
 
 # HTML
