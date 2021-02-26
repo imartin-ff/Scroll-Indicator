@@ -1,7 +1,17 @@
-# Scroll-Indicator
-Scroll Indicator using vanilla java-script
+### Scroll-Indicator
+## Scroll indicator using vanilla JavaScript
 
 
+# HTML
+``` HTML
+  <div class="scroll-wrapper">
+    <div class="scroll-item"></div>
+  </div>
+```
+
+
+
+# Java-Script
 ```javascript
 var sItem  = document.querySelector('.scroll-item');
 window.addEventListener('scroll',function(){
@@ -12,3 +22,6 @@ window.addEventListener('scroll',function(){
   sItem.style.width = `${percent}%`;
 });
 ```
+
+
+
