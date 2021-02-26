@@ -1,4 +1,4 @@
-### Scroll-Indicator
+# Scroll-Indicator
 ## Scroll indicator using vanilla JavaScript
 
 
